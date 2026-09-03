@@ -1,0 +1,11 @@
+Model,Sex,Factor,Drift,StdDev
+AP2,Female,v1,0.0290,0.0386
+AP2,Female,v2,0.0095,0.0457
+AP3,Female,v1,0.0217,0.0367
+AP3,Female,v2,0.0197,0.0188
+AP3,Female,v3,0.0123,0.0475
+AP2,Male,v1,0.0213,0.0387
+AP2,Male,v2,0.0076,0.0450
+AP3,Male,v1,0.0238,0.0476
+AP3,Male,v2,0.0140,0.0227
+AP3,Male,v3,0.0106,0.0447
